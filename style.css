@@ -63,11 +63,12 @@
     }
 
     footer {
-      text-align: center;
+      /* text-align: center; */
       padding: 1rem;
       background: #333;
       color: white;
-      margin-top: 2rem;
+      justify-content: space-between;
+      /* margin-top: 2rem; */
     }
     .about p, .projects p, .contact p {
         font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
@@ -87,3 +88,7 @@
       width: 20px;
       height: 80px;
     } */
+     .paara{
+      /* margin-right: 900px; */
+      
+     }
