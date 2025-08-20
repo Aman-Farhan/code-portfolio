@@ -68,6 +68,7 @@
       background: #333;
       color: white;
       justify-content: space-between;
+      display: flex;
       /* margin-top: 2rem; */
     }
     .about p, .projects p, .contact p {
