@@ -79,3 +79,11 @@
         font-size: large;
         color: aqua;
     }
+    .button{
+      font-size: larger;
+      width: 70px;
+    }
+    /* .form{
+      width: 20px;
+      height: 80px;
+    } */
